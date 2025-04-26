@@ -70,6 +70,7 @@ public class MainFrame extends javax.swing.JFrame {
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/cobajavadashboard/multiple-users-silhouette.png"))); // NOI18N
         jLabel1.setText("List of Clients:");
 
+        jPanel2.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "New Clients", javax.swing.border.TitledBorder.DEFAULT_JUSTIFICATION, javax.swing.border.TitledBorder.DEFAULT_POSITION, new java.awt.Font("Segoe Print", 1, 14))); // NOI18N
         jPanel2.setOpaque(false);
 
         jLabel2.setFont(new java.awt.Font("Segoe Print", 1, 14)); // NOI18N
